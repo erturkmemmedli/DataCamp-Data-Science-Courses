@@ -23,4 +23,10 @@
 - Unsupervised Learning in Python
 - Machine Learning with Tree-Based Models in Python
 - Case Study - School Budgeting with Machine Learning in Python
-- Cluster Analysis in Python+
+- Cluster Analysis in Python
+
+[Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/79dcae2da4b26cd9029e0d3bb5a66268ef6c6e66) (OCT 13, 2020)
+- Introduction to Python
+- Intermediate Python
+- Python Data Science Toolbox (Part 1)
+- Python Data Science Toolbox (Part 2)
