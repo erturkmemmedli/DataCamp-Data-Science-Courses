@@ -1,5 +1,14 @@
 # DataCamp-Data-Science-Courses
 
+[Data Scientist with Python Track]
+- Introduction to Python
+- Intermediate Python
+- Data Manipulation with pandas
+- Joining Data with pandas
+- Introduction to Statistics in Python
+- Introduction to Data Visualization with Matplotlib
+- Introduction to Data Visualization with Seaborn
+
 [Data Literacy Professional Track](https://www.datacamp.com/statement-of-accomplishment/track/76a2ed00dc36c0c2e3bc70ca8cef151b6e4bf7c9) (Mar 09, 2023)
 - Introduction to Data
 - Communicating Data Insights
