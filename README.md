@@ -8,6 +8,7 @@
 - Introduction to Statistics in Python
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
+- Python Data Science Toolbox (Part 1)
 
 [Data Literacy Professional Track](https://www.datacamp.com/statement-of-accomplishment/track/76a2ed00dc36c0c2e3bc70ca8cef151b6e4bf7c9) (Mar 09, 2023)
 - Introduction to Data
