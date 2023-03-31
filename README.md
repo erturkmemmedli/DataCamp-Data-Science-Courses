@@ -12,6 +12,12 @@
 - Python Data Science Toolbox (Part 2)
 - Intermediate Data Visualization with Seaborn
 
+[Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/a2e6182ddc6366c9a92b1ff0fc55857697fd0423) (Mar 31, 2023)
+- Introduction to Python
+- Intermediate Python
+- Python Data Science Toolbox (Part 1)
+- Python Data Science Toolbox (Part 2)
+
 [Data Literacy Professional Track](https://www.datacamp.com/statement-of-accomplishment/track/76a2ed00dc36c0c2e3bc70ca8cef151b6e4bf7c9) (Mar 09, 2023)
 - Introduction to Data
 - Communicating Data Insights
