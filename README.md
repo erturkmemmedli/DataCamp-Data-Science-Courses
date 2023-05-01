@@ -15,6 +15,11 @@
 - Working with Categorical Data in Python
 - Data Communication Concepts
 - Introduction to Importing Data in Python
+- Cleaning Data in Python
+- Working with Dates and Times in Python
+- Writing Functions in Python
+- Introduction to Regression with statsmodels in Python
+- Sampling in Python
 
 [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/a2e6182ddc6366c9a92b1ff0fc55857697fd0423) (Mar 31, 2023)
 - Introduction to Python
