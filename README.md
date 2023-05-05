@@ -21,6 +21,7 @@
 - Introduction to Regression with statsmodels in Python
 - Sampling in Python
 - Hypothesis Testing in Python
+- Supervised Learning with scikit-learn
 
 [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/a2e6182ddc6366c9a92b1ff0fc55857697fd0423) (Mar 31, 2023)
 - Introduction to Python
