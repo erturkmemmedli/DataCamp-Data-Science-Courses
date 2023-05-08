@@ -1,0 +1,175 @@
+Introduction to Git
+
+# 1. Introduction to Git
+
+1) Introduction to version control with Git
+
+cd data
+ls
+
+Answer: One
+
+git --version
+
+2) Saving files
+
+cd mh_survey
+
+Answer: /home/repl/mh_survey/.git
+
+Modify: echo; nano filename
+Draft: git add.; git add filename
+Save: git commit -m
+
+echo "49,M,No,Yes,Never,Yes,Yes,No" > mental_health_survey.csv
+git add mental_health_survey.csv
+git commit -m "Adding one new participant's data"
+
+3) Comparing files
+
+git status
+git add .
+git commit -m "Added 3 participants and a new section in report"
+
+git diff
+
+Answer: 1
+
+git diff HEAD 
+git add report.md
+git commit -m "New participant data and reminder for analysis"
+
+Answer: git diff -r HEAD report.md
+
+# 2. Making changes
+
+1) Storing data with Git
+
+Answer: ebe93178
+
+git log
+
+Answer: e39ecc89
+
+git log
+git show 36b761e4
+
+2) Viewing changes
+
+git show HEAD
+
+Answer: mental_health_survey.csv had 47 lines added.
+
+git diff HEAD~3 HEAD~1 + 'space' button
+
+Answer: report.md and mental_health_survey.csv
+
+git annotate report.md
+
+3) Undoing changes before committing
+
+git reset HEAD mental_health_survey.csv
+echo 41,M,Yes,No,No,No,Often,Yes > mental_health_survey.csv
+git add mental_health_survey.csv
+git commit -m "Extra participant"
+
+git checkout -- report.md
+
+git reset HEAD
+git checkout .
+
+4) Restoring and reverting
+
+git checkout 7f71eade
+
+Answer: git clean -n and git clean -f
+
+git log -2 report.md
+git checkout 36b761e4 report.md
+git add report.md
+git commit -m "Restoring version from commit 36b761"
+
+# 3. Git workflows
+
+1) Configuring Git
+
+git config --list
+git config --global user.email I_love_Git@datacamp.com
+git config --list --global
+
+git config --global alias.st 'status'
+git st
+
+Answer: report.pdf
+
+2) Branches
+
+Answer: Two
+
+echo "Mean age is 32 years old, with a standard deviation of 6.72" >> summary_statistics.txt
+git add summary_statistics.txt
+git commit -m "Adding age summary statistics"
+git checkout -b report
+
+git branch
+
+Answer: 4
+
+git diff alter-report-title summary-statistics
+
+3) Working with branches
+
+git checkout report
+echo "80% of participants were male, compared to the industry average of 67%." > report.md
+git add report.md
+git commit -m "Add gender summary in report"
+
+git merge report main
+
+4) Handling conflict
+
+Answer: 2
+
+echo "# Mental Health in Tech Survey
+TODO: write executive summary.
+TODO: include link to raw data.
+TODO: remember to cite funding sources!
+TODO: Add data visualizations." > report.md
+
+# 4. Collaborating with Git
+
+1) Creating repos
+
+git init anxiety_workplace
+cd anxiety_workplace
+echo "TODO: Recap on existing research." > todo.txt
+
+git init
+
+2) Working with remotes
+
+git clone /home/john/repo john_anxiety_project
+
+git remote add john /home/john/repo
+git remote -v
+
+3) Gathering from a remote
+
+git remote
+git fetch origin main
+git diff origin main
+
+git pull origin main
+echo "No existing mental health diagnosis." > protocol.md
+git add protocol.md
+git commit -m "Updating eligibility criteria"
+
+4) Pushing to a remote
+
+git add .
+git commit -m "Budget inaccuracy added to the issue log and report"
+git push origin main
+
+git push origin main
+git pull origin main
+git push origin main
