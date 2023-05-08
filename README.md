@@ -24,8 +24,8 @@
 - Supervised Learning with scikit-learn
 - Unsupervised Learning in Python
 - Machine Learning with Tree-Based Models in Python
-- Introduction to Git
 - Intermediate Importing Data in Python
+- Introduction to Git
 
 [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/b247b50ac0fa970c3a3d2ad52cb023a8645bde7d) (May 08, 2023)
 - Introduction to Python
