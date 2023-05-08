@@ -1,6 +1,6 @@
 # DataCamp-Data-Science-Courses
 
-[Data Scientist with Python Track]
+[Data Scientist Professional with Python Track]
 - Introduction to Python
 - Intermediate Python
 - Data Manipulation with pandas
@@ -22,6 +22,34 @@
 - Sampling in Python
 - Hypothesis Testing in Python
 - Supervised Learning with scikit-learn
+- Unsupervised Learning in Python
+- Machine Learning with Tree-Based Models in Python
+- Intermediate Importing Data in Python
+
+[Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/b247b50ac0fa970c3a3d2ad52cb023a8645bde7d) (May 08, 2023)
+- Introduction to Python
+- Intermediate Python
+- Data Manipulation with pandas
+- Joining Data with pandas
+- Introduction to Statistics in Python
+- Introduction to Data Visualization with Matplotlib
+- Introduction to Data Visualization with Seaborn
+- Python Data Science Toolbox (Part 1)
+- Python Data Science Toolbox (Part 2)
+- Intermediate Data Visualization with Seaborn
+- Exploratory Data Analysis in Python
+- Working with Categorical Data in Python
+- Data Communication Concepts
+- Introduction to Importing Data in Python
+- Cleaning Data in Python
+- Working with Dates and Times in Python
+- Writing Functions in Python
+- Introduction to Regression with statsmodels in Python
+- Sampling in Python
+- Hypothesis Testing in Python
+- Supervised Learning with scikit-learn
+- Unsupervised Learning in Python
+- Machine Learning with Tree-Based Models in Python
 
 [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/a2e6182ddc6366c9a92b1ff0fc55857697fd0423) (Mar 31, 2023)
 - Introduction to Python
