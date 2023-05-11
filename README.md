@@ -25,6 +25,8 @@
 - Unsupervised Learning in Python
 - Machine Learning with Tree-Based Models in Python
 - Intermediate Importing Data in Python
+- Preprocessing for Machine Learning in Python
+- Developing Python Packages
 - Introduction to Git
 
 [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/b247b50ac0fa970c3a3d2ad52cb023a8645bde7d) (May 08, 2023)
