@@ -2,6 +2,14 @@
 
 [Professional Data Scientist](https://www.datacamp.com/certificate/DS0027223843902) (Jul 16, 2023)
 
+[Machine Learning Scientist with Python]
+- Introduction to ChatGPT
+- Supervised Learning with scikit-learn
+- Unsupervised Learning in Python
+- Linear Classifiers in Python
+- Machine Learning with Tree-Based Models in Python
+- Extreme Gradient Boosting with XGBoost
+
 [Data Scientist Professional with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/be7fb4dfa08d6ae8e527598c08ceefb41ced293c) (May 12, 2023)
 - Introduction to Python
 - Intermediate Python
