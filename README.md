@@ -1,6 +1,6 @@
 # DataCamp-Data-Science-Courses
 
-[#Professional Data Scientist](https://www.datacamp.com/certificate/DS0027223843902) (Jul 16, 2023)
+## [Professional Data Scientist](https://www.datacamp.com/certificate/DS0027223843902) (Jul 16, 2023)
 
 [Machine Learning Scientist with Python]
 - Introduction to ChatGPT
