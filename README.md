@@ -9,6 +9,10 @@
 - Linear Classifiers in Python
 - Machine Learning with Tree-Based Models in Python
 - Extreme Gradient Boosting with XGBoost
+- Cluster Analysis in Python
+- Dimensionality Reduction in Python
+- Preprocessing for Machine Learning in Python
+
 
 [Data Scientist Professional with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/be7fb4dfa08d6ae8e527598c08ceefb41ced293c) (May 12, 2023)
 - Introduction to Python
