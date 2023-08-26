@@ -20,6 +20,20 @@
 - Introduction to TensorFlow in Python
 - Introduction to Deep Learning with PyTorch
 - Introduction to Deep Learning in Python
+- Introduction to Deep Learning with Keras
+- Advanced Deep Learning with Keras
+
+[Deep Learning in Python Track](https://www.datacamp.com/statement-of-accomplishment/track/fcaeced2347848333f45f3e28309064500d82e0a) (Aug 26, 2023)
+- Introduction to Deep Learning in Python
+- Introduction to TensorFlow in Python
+- Introduction to Deep Learning with Keras
+- Advanced Deep Learning with Keras
+
+[Machine Learning Fundamentals with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/eef7a3c6d31ecd8378e5c0c4d6316a2f42527ed0) (Aug 26, 2023)
+- Supervised Learning with scikit-learn
+- Unsupervised Learning in Python
+- Linear Classifiers in Python
+- Introduction to Deep Learning in Python
 
 [Data Scientist Professional with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/be7fb4dfa08d6ae8e527598c08ceefb41ced293c) (May 12, 2023)
 - Introduction to Python
