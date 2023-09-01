@@ -25,6 +25,9 @@
 - Image Processing with Python
 - Image Processing with Keras in Python
 - Hyperparameter Tuning in Python
+- Introduction to PySpark
+- Machine Learning with PySpark
+- Winning a Kaggle Competition in Python
 
 [Deep Learning in Python Track](https://www.datacamp.com/statement-of-accomplishment/track/fcaeced2347848333f45f3e28309064500d82e0a) (Aug 26, 2023)
 - Introduction to Deep Learning in Python
