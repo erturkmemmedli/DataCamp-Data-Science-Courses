@@ -2,7 +2,7 @@
 
 ## [Professional Data Scientist](https://www.datacamp.com/certificate/DS0027223843902) (Jul 16, 2023)
 
-[Machine Learning Scientist with Python]
+[Machine Learning Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/b2564d3dfd7cf12fedbffa4a4ee02bcbd9c1c010) (Sep 02, 2023)
 - Introduction to ChatGPT
 - Supervised Learning with scikit-learn
 - Unsupervised Learning in Python
